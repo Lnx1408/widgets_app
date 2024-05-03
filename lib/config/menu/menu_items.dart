@@ -17,7 +17,7 @@ class MenuItem {
 const appMenuItems = <MenuItem>[
   MenuItem(
     title: 'Botones',
-    subtitle: 'Variuos botones en flutter',
+    subtitle: 'Varios botones en flutter',
     link: '/buttons',
     icon: Icons.smart_button_outlined,
   ),
